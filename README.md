@@ -27,7 +27,6 @@
 
 
 
+# What is an Algorithm 
 
 <img width="464" alt="image" src="https://github.com/Nazar-Pichak/Algorithms_and_Data_Structures/assets/103797791/9a7ad3e7-0d4a-44e0-a8d7-ab749128048a">
-
-# What is an Algorithm 
