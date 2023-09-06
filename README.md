@@ -3,6 +3,9 @@
 [![algorithm - data structure](https://img.shields.io/static/v1?label=algorithm&message=data+structure&color=brown&logo=thealgorithms&logoColor=yellow)](https://www.geeksforgeeks.org/what-is-data-structure-types-classifications-and-applications/)
 [![algorithm - python](https://img.shields.io/static/v1?label=algorithm&message=python&color=green&logo=python&logoColor=yellow)](https://python.org)
 
+<img width="470" alt="image" src="https://github.com/Nazar-Pichak/Algorithms_and_Data_Structures/assets/103797791/6eaf831f-d346-4579-8aba-bed150132e34">
+
+
 # What is the Data Structure  
 
  Data structures are an integral part of computers used for the arrangement of data in memory. They are essential and responsible for organizing, processing, accessing, and storing data efficiently. But this is not all. Various types of data structures have their own characteristics, features, applications, advantages, and disadvantages.There are different basic and advanced types of data structures that are used in almost every program or software system that has been developed. So we must have good knowledge of data structures.
