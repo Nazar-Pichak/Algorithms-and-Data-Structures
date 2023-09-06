@@ -5,11 +5,12 @@
 [![algorithm - python](https://img.shields.io/static/v1?label=algorithm&message=python&color=green&logo=python&logoColor=yellow)](https://python.org)
 
 <img width="470" alt="image" src="https://github.com/Nazar-Pichak/Algorithms_and_Data_Structures/assets/103797791/6eaf831f-d346-4579-8aba-bed150132e34">
-¨
-<img width="464" alt="image" src="https://github.com/Nazar-Pichak/Algorithms_and_Data_Structures/assets/103797791/9a7ad3e7-0d4a-44e0-a8d7-ab749128048a">
 
 # What is the Data Structure
-   Data structures are an integral part of computers used for the arrangement of data in memory. They are essential and responsible for organizing, processing, accessing, and storing data efficiently. But this is not all. Various types of data structures have their own characteristics, features, applications, advantages, and disadvantages.There are different basic and advanced types of data structures that are used in almost every program or software system that has been developed. So we must have good knowledge of data structures.# What is the Data Type   A data type is a classification of data which tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support various types of data, including integer, real, character or string, and boolean.# How Data Structure varies from Data Type
+
+    Data structures are an integral part of computers used for the arrangement of data in memory. They are essential and responsible for organizing, processing, accessing, and storing data efficiently. But this is not all. Various types of data structures have their own characteristics, features, applications, advantages, and disadvantages.There are different basic and advanced types of data structures that are used in almost every program or software system that has been developed. So we must have good knowledge of data structures.# What is the Data Type   A data type is a classification of data which tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support various types of data, including integer, real, character or string, and boolean.
+   
+# How Data Structure varies from Data Type
 
 | Data Type | Data Structure |
 |-----------|----------------|
@@ -27,5 +28,6 @@
 
 
 
+<img width="464" alt="image" src="https://github.com/Nazar-Pichak/Algorithms_and_Data_Structures/assets/103797791/9a7ad3e7-0d4a-44e0-a8d7-ab749128048a">
 
 # What is an Algorithm 
