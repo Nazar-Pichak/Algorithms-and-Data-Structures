@@ -49,6 +49,6 @@
 
 <img width="464" alt="image" src="https://github.com/Nazar-Pichak/Algorithms_and_Data_Structures/assets/103797791/9a7ad3e7-0d4a-44e0-a8d7-ab749128048a">
 
-> 
-> 
-> 
+> The word Algorithm means “A set of rules to be followed in calculations or other problem-solving operations” Or “A procedure for solving a mathematical problem in a finite number of steps that frequently involves recursive operations “.
+> Therefore Algorithm refers to a sequence of finite steps to solve a particular problem.
+> Algorithms can be simple and complex depending on what you want to achieve.
