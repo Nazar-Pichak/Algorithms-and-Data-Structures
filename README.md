@@ -6,7 +6,7 @@ Data structures are an integral part of computers used for the arrangement of da
 | Data Type | Data Structure |
 |-----------|----------------|
 |The data type is the form of a variable to which a value can be assigned. It defines that the particular variable will assign the values of the given data type only.| Data structure is a collection of different kinds of data. That entire data can be represented using an object and can be used throughout the program.|
-|It can hold value but not data. Therefore, it is dataless.|
+|It can hold value but not data. Therefore, it is dataless.|It can hold multiple types of data within a single object.|
 # Classification of Data Structure
 <img width="444" alt="image" src="https://github.com/Nazar-Pichak/Algorithms_and_Data_Structures/assets/103797791/0888c09b-942f-4a86-af0d-b93b809f40b3">
 
