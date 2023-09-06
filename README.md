@@ -28,6 +28,7 @@
 
 
 # Classification of Data Structure
-<img width="444" alt="image" src="https://github.com/Nazar-Pichak/Algorithms_and_Data_Structures/assets/103797791/0888c09b-942f-4a86-af0d-b93b809f40b3">
+<img width="443" alt="image" src="https://github.com/Nazar-Pichak/Algorithms_and_Data_Structures/assets/103797791/1cc76c34-cf50-4b02-9665-2c9afef8ae05">
+
 
 
