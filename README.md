@@ -1,6 +1,7 @@
 # Algorithms and Data Structures
 
 [![algorithm - data structure](https://img.shields.io/static/v1?label=algorithm&message=data+structure&color=brown&logo=thealgorithms&logoColor=yellow)](https://www.geeksforgeeks.org/what-is-data-structure-types-classifications-and-applications/)
+
 [![algorithm - python](https://img.shields.io/static/v1?label=algorithm&message=python&color=green&logo=python&logoColor=yellow)](https://python.org)
 
 # What is the Data Structure  
