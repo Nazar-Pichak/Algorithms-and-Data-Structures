@@ -4,6 +4,7 @@
 [![algorithm - python](https://img.shields.io/static/v1?label=algorithm&message=python&color=green&logo=python&logoColor=yellow)](https://python.org)
 
 <img width="470" alt="image" src="https://github.com/Nazar-Pichak/Algorithms_and_Data_Structures/assets/103797791/6eaf831f-d346-4579-8aba-bed150132e34">
+<img width="464" alt="image" src="https://github.com/Nazar-Pichak/Algorithms_and_Data_Structures/assets/103797791/9a7ad3e7-0d4a-44e0-a8d7-ab749128048a">
 
 
 # What is the Data Structure  
