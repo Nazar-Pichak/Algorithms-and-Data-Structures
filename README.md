@@ -36,6 +36,9 @@ An example of this data structure is an array.
 ```Dynamic data structure```
 In the dynamic data structure, the size is not fixed. It can be randomly updated during the runtime which may be considered efficient concerning the memory (space) complexity of the code. Examples of this data structure are queue, stack, etc.
 
+- Non-linear data structure
+Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. In a non-linear data structure, we can’t traverse all the elements in a single run only. 
+Examples of non-linear data structures are trees and graphs.
 
 
 # What is an Algorithm 
