@@ -27,22 +27,22 @@
 
 # Linear data structure
 
-Data structure in which data elements are arranged sequentially or linearly, where each element is attached to its previous and next adjacent elements, is called a linear data structure.
-Examples of linear data structures are array, stack, queue, linked list, etc. and they divided into two parts as well.
+> Data structure in which data elements are arranged sequentially or linearly, where each element is attached to its previous and next  adjacent elements, is called a linear data structure.
+> Examples of linear data structures are array, stack, queue, linked list, etc. and they divided into two parts as well.
 
 - Static data structure 
 
-Static data structure has a fixed memory size. It is easier to access the elements in a static data structure.
-An example of this data structure is an array.
+> Static data structure has a fixed memory size. It is easier to access the elements in a static data structure.
+> An example of this data structure is an array.
 
 - Dynamic data structure
 
-In the dynamic data structure, the size is not fixed. It can be randomly updated during the runtime which may be considered efficient concerning the memory (space) complexity of the code. Examples of this data structure are queue, stack, etc.
+> In the dynamic data structure, the size is not fixed. It can be randomly updated during the runtime which may be considered efficient concerning the memory (space) complexity of the code. Examples of this data structure are queue, stack, etc.
 
 # Non-linear data structure
 
-Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. In a non-linear data structure, we can’t traverse all the elements in a single run only. 
-Examples of non-linear data structures are trees and graphs.
+>Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. In a non-linear data structure, we can’t traverse all the elements in a single run only. 
+>Examples of non-linear data structures are trees and graphs.
 
 
 # What is an Algorithm 
