@@ -114,14 +114,24 @@
 - Mathematical Algorithms
 
  → GCD and LCM
+
  → Prime Factorization and Divisors
+
  → Fibonacci Numbers
+
  → Catalan Numbers
+
  → Modular Arithmetic
+
  → Euler Totient Function
+
  → nCr Computations
+
  → Set Theory
+
  → Factorial
+
  → Prime numbers and Primality Tests
+ 
  → Sieve Algorithms, etc.
 
