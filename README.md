@@ -92,7 +92,9 @@
 >
 
 👉  Divide
+
 👉  Solve
+
 👉  Combine
 
 - Greedy Algorithm 
