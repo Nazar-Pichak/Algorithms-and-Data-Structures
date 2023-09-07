@@ -115,25 +115,25 @@
 
 >These algorithms are designed to solve Mathematical and Number Theory problems.
 >They requires in-depth knowledge of different mathematical concepts like
+
 > → GCD and LCM
 
 > → Prime Factorization and Divisors
 
- → Fibonacci Numbers
+> → Fibonacci Numbers
 
- → Catalan Numbers
+> → Catalan Numbers
 
- → Modular Arithmetic
+> → Modular Arithmetic
 
- → Euler Totient Function
+> → Euler Totient Function
 
- → nCr Computations
+> → nCr Computations
 
- → Set Theory
+> → Set Theory
 
- → Factorial
+> → Factorial
 
- → Prime numbers and Primality Tests
-
- → Sieve Algorithms, etc.
+> → Prime numbers and Primality Tests 
+> → Sieve Algorithms, etc.
 
