@@ -67,5 +67,28 @@
 
 - Backtracking Algorithm
 
+>The backtracking algorithm basically builds the solution by searching among all possible solutions. Using this algorithm, we keep on building the solution following criteria. Whenever a solution fails we trace back to the failure point and build on the next solution and continue this process till we find the solution or all possible solutions are looked after.
+>
+
+- Searching Algorithm
+
+>Searching algorithms are the ones that are used for searching elements or groups of elements from a particular data structure.
+>They can be of different types based on their approach or the data structure in which the element should be found.
+
+- Sorting Algorithm
+
+> Sorting is arranging a group of data in a particular manner according to the requirement.
+> The algorithms which help in performing this function are called sorting algorithms.
+> Generally sorting algorithms are used to sort groups of data in an increasing or decreasing manner.
+
+- Hashing Algorithm
+
+>Hashing algorithms work similarly to the searching algorithm.
+>But they contain an index with a key ID. In hashing, a key is assigned to specific data.
+
+-  Divide and Conquer Algorithm
+
+
+
 
 
