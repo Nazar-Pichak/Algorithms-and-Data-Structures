@@ -90,9 +90,12 @@
 
 >This algorithm breaks a problem into sub-problems, solves a single sub-problem and merges the solutions together to get the final solution. It consists of the following three steps:
 >
-- Divide
-- Solve
-- Combine
+### 👉 Divide
+### 👉 Solve
+### 👉 Combine
+
+
+
 
 
 
