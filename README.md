@@ -94,8 +94,21 @@
 ### 👉 Solve
 ### 👉 Combine
 
+- Greedy Algorithm 
 
+> In this type of algorithm the solution is built part by part.
+> The solution of the next part is built based on the immediate benefit of the next part.
+> The one solution giving the most benefit will be chosen as the solution for the next part.
 
+- Dynamic Programming Algorithm 
+
+>This algorithm uses the concept of using the already found solution to avoid repetitive calculation of the same part of the problem.
+>It divides the problem into smaller overlapping subproblems and solves them.
+
+- Randomized Algorithm 
+
+>In the randomized algorithm we use a random number so it gives immediate benefit.
+>The random number helps in deciding the expected outcome.
 
 
 
