@@ -106,5 +106,22 @@
 >In the randomized algorithm we use a random number so it gives immediate benefit.
 >The random number helps in deciding the expected outcome.
 
+- Pattern Searching
 
+>The Pattern Searching algorithms are sometimes also referred to as String Searching Algorithms and are considered as a part of the String algorithms.
+>These algorithms are useful in the case of searching a string within another string.
+
+- Mathematical Algorithms
+
+> GCD and LCM
+> Prime Factorization and Divisors
+> Fibonacci Numbers
+> Catalan Numbers
+> Modular Arithmetic
+> Euler Totient Function
+> nCr Computations
+> Set Theory
+> Factorial
+> Prime numbers and Primality Tests
+> Sieve Algorithms, etc.
 
