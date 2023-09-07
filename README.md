@@ -113,9 +113,11 @@
 
 - Mathematical Algorithms
 
- → GCD and LCM
+>These algorithms are designed to solve Mathematical and Number Theory problems.
+>They requires in-depth knowledge of different mathematical concepts like
+> → GCD and LCM
 
- → Prime Factorization and Divisors
+> → Prime Factorization and Divisors
 
  → Fibonacci Numbers
 
@@ -132,6 +134,6 @@
  → Factorial
 
  → Prime numbers and Primality Tests
- 
+
  → Sieve Algorithms, etc.
 
