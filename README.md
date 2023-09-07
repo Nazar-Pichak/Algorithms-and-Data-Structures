@@ -106,7 +106,7 @@
 >In the randomized algorithm we use a random number so it gives immediate benefit.
 >The random number helps in deciding the expected outcome.
 
-- Pattern Searching
+- Pattern Searching Algorithm
 
 >The Pattern Searching algorithms are sometimes also referred to as String Searching Algorithms and are considered as a part of the String algorithms.
 >These algorithms are useful in the case of searching a string within another string.
@@ -131,7 +131,6 @@
 
 > → nCr Computations
 
-
 > → Set Theory
 
 > → Factorial
@@ -140,5 +139,11 @@
 
 > → Sieve Algorithms, etc.
 
-- 
+- Bitwise Algorithms
+
+>The Bitwise Algorithms is used to perform operations at the bit-level or to manipulate bits in different ways.
+>The bitwise operations are found to be much faster and are sometimes used to improve the efficiency of a program.
+>For example: To check if a number is even or odd. This can be easily done by using Bitwise-AND(&) operator.
+>If the last bit of the operator is set than it is ODD otherwise it is EVEN.
+>Therefore, if num & 1 not equals to zero than num is ODD otherwise it is EVEN.
 
