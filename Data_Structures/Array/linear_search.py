@@ -1,6 +1,6 @@
 # The Linear search algorithm in the Array Data Structure
 
-def linear_search(arr, item):
+def linear_search(arr: list, item: str):
     for i in range(len(arr)):
         if item == arr[i]:
             return f"The item {item} was found at index {i}"
