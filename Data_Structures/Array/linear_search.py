@@ -1,4 +1,4 @@
-# The Linear search algorithm in the Array Data Structure
+# The Linear search in the Array Data Structure
 
 def linear_search(arr: list, item: str):
     for i in range(len(arr)):
