@@ -48,10 +48,9 @@
 - Queue
 - Heap
 - Hash
-- 
-
-
-
+- Binary tree
+- Binary search tree
+- Graph
 
 ## Non-linear data structure
 
