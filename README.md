@@ -39,6 +39,20 @@
 
 > In the dynamic data structure, the size is not fixed. It can be randomly updated during the runtime which may be considered efficient concerning the memory (space) complexity of the code. Examples of this data structure are queue, stack, etc.
 
+## Popular types of data structures 
+- Array
+- String
+- Linked list
+- Matrix/Grid
+- Stack
+- Queue
+- Heap
+- Hash
+- 
+
+
+
+
 ## Non-linear data structure
 
 >Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. In a non-linear data structure, we can’t traverse all the elements in a single run only. 
