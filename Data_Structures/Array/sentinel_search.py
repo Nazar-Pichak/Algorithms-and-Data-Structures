@@ -1,6 +1,6 @@
 # The Sentinel search in Array Data Structure
 
-def sentinel_search(arr: list, n: int, item: str):
+def sentinel_linear_search(arr: list, n: int, item: str):
     last = arr[n - 1]
     arr[n - 1] = item
     i = 0
@@ -17,3 +17,5 @@ item = input("Enter your item: ")
 arr = list(input('Enter your array: '))
 n = len(arr)
 print(sentinel_search(arr, n, item))
+
+
