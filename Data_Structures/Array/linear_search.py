@@ -1,4 +1,6 @@
-# The Linear search in the Array Data Structure
+# The Linear search in the Array Data Structure.
+# In linear search, all items in array will be cheked on equality untill find the searching item,
+# else 'item is not presented in array'.
 
 def linear_search(arr: list, item: str):
     for i in range(len(arr)):

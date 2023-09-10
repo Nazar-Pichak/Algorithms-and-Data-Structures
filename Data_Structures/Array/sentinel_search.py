@@ -1,4 +1,5 @@
-# The Sentinel search in Array Data Structure
+# The Sentinel search in Array Data Structure.
+# In this search the last item is replaced with searching item.
 
 def sentinel_linear_search(arr: list, n: int, item: str):
     last = arr[n - 1]
@@ -16,6 +17,6 @@ def sentinel_linear_search(arr: list, n: int, item: str):
 item = input("Enter your item: ")
 arr = list(input('Enter your array: '))
 n = len(arr)
-print(sentinel_search(arr, n, item))
+print(sentinel_linear_search(arr, n, item))
 
 
