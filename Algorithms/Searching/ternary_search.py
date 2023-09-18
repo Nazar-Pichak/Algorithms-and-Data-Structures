@@ -1,4 +1,4 @@
-# The ternary seach alse requires an sorted array to work algorithm properly.
+# The ternary seach also requires an sorted array to work algorithm properly.
 
 def recursive_ternary_search(left, right, item, arr):
     
@@ -31,7 +31,7 @@ def iterative_ternary_search(left, right, item, arr):
             return f"The item {arr[mid_one]} was found at index {mid_one}"
         if arr[mid_two] == item:
             return f"The item {arr[mid_two]} was found at index {mid_two}"
-        
+
         if item < arr[mid_one]:
             right = mid_one - 1
         elif item > arr[mid_two]:
